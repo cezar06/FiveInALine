@@ -1,0 +1,11 @@
+prezentarea proiectului: https://www.youtube.com/watch?v=yav7XUAVPAw
+
+Tudor Cezar: interfata grafica,modul multiplayer local,functionalitatea butoanelor, implementarea algoritmului de joc singleplayer
+Sociu Lucian: programarea algoritmului singleplayer propriu-zis, implementarea algoritmului de joc singleplayer
+
+Proiectul este intreg functional doar pentru rezolutia 1920x1080
+
+
+credits pentru imagini,iconite,unelte folosite la crearea acestora: https://www.flaticon.com/
+								    https://www.clickminded.com/button-generator/
+						                    https://assets.hongkiat.com/uploads/minimalist-dekstop-wallpapers/4k/original/12.jpg 
